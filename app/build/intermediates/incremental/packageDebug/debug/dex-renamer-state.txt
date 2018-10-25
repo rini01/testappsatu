@@ -1,0 +1,4 @@
+#Wed Oct 24 22:59:16 ICT 2018
+base.0=D\:\\kursus android\\Kotlin\\AppSatu\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
